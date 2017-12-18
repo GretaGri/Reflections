@@ -1,13 +1,17 @@
 What happens when you initialize a repository? Why do you need to do it?
 You create a repository in github and you have choice to start commits to this project. You need repository to work with github and to save different versions of your project.
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 It is somewhere in the middle between working directory and repository, you can see files you want to commit here, and choose several files to commit at one time. 
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 You can compare your working directory file with staging area or staging area file with last commit, to see what changes you have done.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches helps if you want to have your working version but  want to experiment a bit with new features, different language or different layout or something else what you ar not sure if it works or will be ditched in the process. Branches makes those differences possible without changing our master project and after some chek up you can choose either to merge everythig or to work only with mane file without those experimental changes.
 
 How do the diagrams help you visualize the branch structure?
 
