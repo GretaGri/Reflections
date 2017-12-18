@@ -17,5 +17,5 @@ Drawing adiagram helps to understand what commit is visible upon which branch an
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It merges all the changes in one file, we have no separate branches instead we have one master branch and the commit history is merged in one by commit time.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Git's automatic merging cannot always work perfectly and this might end in app crash, so if you merging something several people created and heve no idea about hte changes made you should use manual merge instead.
