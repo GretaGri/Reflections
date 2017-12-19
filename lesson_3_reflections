@@ -13,7 +13,12 @@ those files you want to be visible for the others.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Forks works the same as clones but only in Github, and saves some additional 
+information allowing to connect them with the original files from which fork was made.
+Clones works as copy paste just creating a new folder with all files cloned.
+No connection to the original.
+Branches works on git repository and keeps the connection to master files,
+works like separate unit, but can be merged with master when needed. 
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
