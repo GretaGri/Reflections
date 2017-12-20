@@ -23,7 +23,8 @@ works like separate unit, but can be merged with master when needed.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+It helps to reveal conflicting changes and to use different commands to solve
+those changes correctly.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
