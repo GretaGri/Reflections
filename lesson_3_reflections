@@ -29,9 +29,16 @@ those changes correctly.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-Share code files and their changes on platforms for file sharing, for example, use google docs, it easier for the user just simple use no additional programs and learing, but hard to use because no version trakcing, hard to go back to find the version without bugs, hard to find differences and many more inconveniences.
+Share code files and their changes on platforms for file sharing, for example, 
+use google docs, it easier for the user just simple use no additional programs 
+and learing, but hard to use because no version trakcing, hard to go back to 
+find the version without bugs, hard to find differences and many more inconveniences.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-
+You want to make changes in a separate branch rather than directly in master,
+when You work together with someone and before editing master branch you want
+to know what is edited, or when you try to experiment. The work with branch is
+more difficult when working in master because you have to do several actions
+in order to merge changes with master. 
